@@ -26,7 +26,7 @@ Other useful commands to see what is going on the git repository:
 - [ ] Pull the changes to your local repository
 - [ ] Create a new branch named "branch-1" and push to Github
 
-whwkwhw
+whwkwhaadw
 
 ## Practice Output 
 1. Your repo url in Github
